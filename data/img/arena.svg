@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1024" height="1024" class="icon" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet">
+	<rect height="100%" x="0" width="100%" fill="#EEEEEE" rx="4%"/>
+	<rect height="5%" x="5%" width="5%" fill="#e1000f" />
+	<rect height="5%" x="10%" width="5%" fill="#FFFFFF"/>
+	<rect height="5%" x="15%" width="5%" fill="#000091"/>
+	<text xmlns="http://www.w3.org/2000/svg" id="texte" font-weight="bold" x="50%" text-anchor="middle" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="250" y="50%">Aréna</text>
+</svg>

@@ -1,0 +1,137 @@
+﻿{
+  "common_links": [
+    {
+      "name": "Pronote",
+      "url": "https://9760127j.index-education.net/pronote/",
+      "image": "./img/pronote.svg",
+      "category": "institutionnel"
+    },
+    {
+        "name": "Médiacentre",
+        "recherche": "gar",
+        "url": "/mediacentre",
+        "image": "./img/gar.svg",
+        "category": "ressources"
+    },
+    {
+      "name": "Actus Bamana",
+      "recherche": "site actualités web",
+      "url": "https://lgt-bamana.ac-mayotte.fr",
+      "image": "https://lgt-bamana.ac-mayotte.fr/sites/lgt-bamana.ac-mayotte.fr/IMG/svg/site-web-lycee-bamana-large.svg",
+      "category": "institutionnel"
+    },
+    {
+      "name": "CDI Bamana",
+      "recherche": "bibliothèque esidoc",
+      "url": "https://9760127j.esidoc.fr/",
+      "image": "./img/cdi.svg",
+      "category": "ressources"
+    }
+  ],
+  "teachers_common_links": [
+    {
+      "name": "Messagerie",
+      "recherche": "mail zimbra",
+      "url": "https://messagerie.education.gouv.fr/",
+      "image": "./img/zimbra_logo.svg",
+      "category": "communication"
+    },
+    {
+      "name": "Nuage",
+       "recherche": "cloud",
+      "url": "https://nuage.apps.education.fr/",
+      "image": "./img/nuage.svg",
+      "category": "stockage"
+    },
+    {
+      "name": "Aréna",
+      "url": "https://arena.ac-mayotte.fr/arena/mes-favoris",
+      "image": "./img/arena.svg",
+      "category": "institutionnel"
+    },
+    {
+        "name": "Digipad Bamana",
+        "url": "https://digipad.app/p/1749001/0a64da14a4ff1",
+        "image": "./img/pad.svg",
+        "category": "collaboration"
+    },
+    {
+      "name": "Rectorat Mayotte",
+      "url": "http://www.ac-mayotte.fr/",
+      "image": "./img/rectorat.svg",
+      "category": "institutionnel"
+    }
+  ],
+  "pages": [
+    {
+      "slug": "youpi",
+      "tools": [
+        {
+          "name": "Capytale",
+          "recherche": "nsi",
+          "url": "https://capytale2.ac-paris.fr/web/c-auth/pvd/may/connect",
+          "image": "https://capytale2.ac-paris.fr/logo.svg",
+          "category": "pedagogique"
+        },
+        {
+          "name": "Actu Edu",
+          "url": "https://ife.ens-lyon.fr/",
+          "image": "",
+          "recherche": "Ife ens lyon",
+          "category": "liens utiles"
+        },
+        {
+          "name": "concours NSI",
+          "url": "https://pedagogie.ac-orleans-tours.fr/spip.php?rubrique1713",
+          "image": "",
+          "category": "liens utiles"
+        },
+        {
+          "name": "SuperZen pour s'orienter",
+          "url": "https://www.supzen.fr/",
+          "image": "https://www.supzen.fr/images/logo.png",
+          "category": "liens utiles"
+        },
+        {
+          "name": "note site lycée",
+          "url": "https://mayotte.edifice.io/collaborativeeditor#/view/5424c60c-be0c-4acd-b0e4-391a53c71ceb",
+          "image": "",
+          "category": "liens utiles"
+        },
+        {
+          "name": "YesWeCode",
+          "recherche": "nsi",
+          "url": "https://padlet.com/yeswecode/l-acc-s-toutes-vos-ressources-calendrier-concours-replays-d--zhfhpca02kttmfly",
+          "image": "https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Cw_48&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F728174935%2Fc76f84610daeefcdc2d462651f04bea7%2Flogo_ywc_fond_bleu.jpg",
+          "category": "liens utiles"
+        },
+        {
+          "name": "Prologin",
+          "recherche": "nsi",
+          "url": "https://prologin.org",
+          "image": "./img/prologin.png",
+          "category": "liens utiles"
+        },
+        {
+          "name": "Pix Orga",
+          "recherche": "admin",
+          "url": "https://orga.pix.fr/",
+          "image": "https://orga.pix.fr/pix-orga-color.svg",
+          "category": "liens utiles"
+        }
+      ]
+    },
+    {
+      "slug": "loulou",
+      "tools": [
+        {
+          "name": "Actu HG académique",
+          "url": "https://histoire-geographie.ac-mayotte.fr/",
+          "image": "",
+          "category": "institutionnel"
+        }
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "start": "python -m http.server 8000 --directory dist"
+  }
+}
