@@ -64,6 +64,10 @@
   ],
   "pages": [
     {
+      "slug": "prof",
+      "tools": []
+    },
+    {
       "slug": "youpi",
       "tools": [
         {
